@@ -18,7 +18,6 @@ This AI-powered app predicts flight prices based on details like the airline, nu
 
 ## 🚀 How to Run
 1. Clone the repo:
-   ```bash
 2. Install node_modules in flight-predictor directory
 3. Run "app.py" File
 4. Run "npm run dev" on in flight-predictor directory
